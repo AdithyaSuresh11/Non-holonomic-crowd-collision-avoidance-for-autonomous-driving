@@ -1,1 +1,0 @@
-The binary data file can be accessed by going to \LiDAR_datasets\annotation-lidar_obstacle_label-data-apollo-1.0\bin_files
