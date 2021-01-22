@@ -1,1 +1,0 @@
-Open matlab> Apps> GroundTruthLabeler> Load> Session> groundTruthLabelingSession.m  
